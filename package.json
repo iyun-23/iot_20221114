@@ -1,0 +1,20 @@
+{
+  "name": "git_20221114",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyun-23/iot_20221114.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyun-23/iot_20221114/issues"
+  },
+  "homepage": "https://github.com/iyun-23/iot_20221114#readme"
+}
